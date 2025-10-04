@@ -55,6 +55,14 @@ ai-product-recommendation/
 │
 └─ README.md # Project documentation
 
+## How to Test
+1. Visit http://localhost:3000
+2. Register / Login
+3. Browse products
+4. Click a product → view details + recommendations
+5. Access Admin Dashboard for product management
+
+
 
 
 
