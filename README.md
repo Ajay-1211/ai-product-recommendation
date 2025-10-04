@@ -21,6 +21,12 @@ npm run dev
 cd frontend
 npm install
 npm run dev
+Open your browser and visit http://localhost:3000
+to test the app:
+Login / Register
+Browse products
+View product details & AI-based recommendations
+Admin dashboard for managing products
 
 ##AI APPROACH
 - Recommendations are generated using category-based similarity (free local logic).
